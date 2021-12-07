@@ -16,6 +16,7 @@
 
 <br />
 
+
   
 Hii, I'm [Verma Ganesh] (https://vermaganesh.github.io/myportfolio.github.io/) , a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
