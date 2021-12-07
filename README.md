@@ -34,7 +34,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 👯 I’m looking to to start the career as an entry-level software engineer with a reputed firm driven by technology.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make story and memes
-- 💼 any freelance work? do reach, [email] (mailto:ganeshnv0@gmail.com) :)
+- 💼 any freelance work? do reach, [email] ( mailto: ganeshnv0@gmail.com ) :)
 - 💬 ask me about anything, i am happy to help;
 
 ### Connect with me:
@@ -73,8 +73,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-<br />
-<br />
+
 
 ---
 
