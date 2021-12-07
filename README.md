@@ -21,19 +21,20 @@
 Hii, I'm [Verma Ganesh ] , a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-  <img align="right" alt="GIF" src="#" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email] (mailto:ganeshnv0@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 
+
+ ---
+  
 ## I'm a Engineer Student, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to to start the career as an entry-level software engineer with a reputed firm driven by technology.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make story and memes
+- 💼 any freelance work? do reach, [email] (mailto:ganeshnv0@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 ### Connect with me:
 
