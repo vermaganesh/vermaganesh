@@ -1,6 +1,6 @@
 ### Hi there, I'm Verma Ganesh - pro [website] 👋
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/ganeshnv0/">
   <img align="left" alt="Ganesh Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
