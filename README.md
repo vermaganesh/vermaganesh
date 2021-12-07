@@ -24,9 +24,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="#" width="500" height="320" />
   
-
-- 💬 ask me about anything, i am happy to help;
 - 💼 any freelance work? do reach, [email] (mailto:ganeshnv0@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
 
 ## I'm a Engineer Student, Developer, and Teacher!!
 
