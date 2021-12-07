@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/ganesh-verma-879158203//">
   <img align="left" alt="Ganesh Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCzUmYa_GQldwKvPbp0MfhSg">
+  <img align="left" alt="Ganesh Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 
 <br />
 
