@@ -5,9 +5,6 @@
 <a href="https://www.instagram.com/ganeshnv0/">
   <img align="left" alt="Ganesh Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/GaneshV69875387">
-  <img align="left" alt="Ganesh Verma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/ganesh-verma-879158203//">
   <img align="left" alt="Ganesh Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -42,9 +39,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <a href="https://www.instagram.com/ganeshnv0/">
   <img align="left" alt="Ganesh Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/GaneshV69875387">
-  <img align="left" alt="Ganesh Verma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ganesh-verma-879158203//">
   <img align="left" alt="Ganesh Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
