@@ -5,11 +5,11 @@
 <a href="https://www.instagram.com/ganeshnv0/">
   <img align="left" alt="Ganesh Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ganesh-verma-879158203//">
-  <img align="left" alt="Ganesh Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vermaganesh/">
+  <img align="left" alt="Ganesh Verma LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCzUmYa_GQldwKvPbp0MfhSg">
-  <img align="left" alt="Ganesh Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Ganesh Verma LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a/>
 
   
@@ -17,23 +17,23 @@
 
 
   
-Hii, I'm [Verma Ganesh ] , a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hii, I'm [Verma Ganesh ], a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
   
 
 
 
  ---
   
-## I'm a Engineer Student, Developer, and Teacher!!
+## I'm an Engineer Student, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to to start the career as an entry-level software engineer with a reputed firm driven by technology.
+- 👯 I want to start my career as an entry-level software engineer with a reputed firm driven by technology.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make story and memes
+- ⚡ Fun fact: I love to make stories and memes
 - 💼 any freelance work? do reach, [email] ( mailto: ganeshnv0@gmail.com ) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
 ### Connect with me:
 
@@ -86,4 +86,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [twitter]: https://twitter.com/GaneshV69875387/
 [youtube]: https://www.youtube.com/channel/UCzUmYa_GQldwKvPbp0MfhSg
 [instagram]: https://www.instagram.com/ganeshnv0/
-[linkedin]: https://www.linkedin.com/in/ganesh-verma-879158203/
+[linkedin]: https://www.linkedin.com/in/vermaganesh/
